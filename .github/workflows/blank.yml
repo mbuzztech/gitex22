@@ -10,3 +10,4 @@ jobs:
         uses: xu-cheng/latex-action@master
         with:
           root_file: tst1.tex
+          ls
