@@ -9,4 +9,4 @@ jobs:
       - name: Compile LaTeX document
         uses: xu-cheng/latex-action@master
         with:
-          root_file: tst1V7.tex
+          root_file: tst2.tex
